@@ -429,3 +429,6 @@ certmanager:
    project: ""
    apikey: "fakeAPIkey1234"
    wildcardDomain: ""
+   
+cert-manager:
+  installCRDs: true
